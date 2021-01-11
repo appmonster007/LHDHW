@@ -1,0 +1,16 @@
+/home/uwu/Documents/LHDHW/bin/Debug/net5.0/LHDHW
+/home/uwu/Documents/LHDHW/bin/Debug/net5.0/LHDHW.deps.json
+/home/uwu/Documents/LHDHW/bin/Debug/net5.0/LHDHW.runtimeconfig.json
+/home/uwu/Documents/LHDHW/bin/Debug/net5.0/LHDHW.runtimeconfig.dev.json
+/home/uwu/Documents/LHDHW/bin/Debug/net5.0/LHDHW.dll
+/home/uwu/Documents/LHDHW/bin/Debug/net5.0/ref/LHDHW.dll
+/home/uwu/Documents/LHDHW/bin/Debug/net5.0/LHDHW.pdb
+/home/uwu/Documents/LHDHW/obj/Debug/net5.0/LHDHW.csprojAssemblyReference.cache
+/home/uwu/Documents/LHDHW/obj/Debug/net5.0/LHDHW.GeneratedMSBuildEditorConfig.editorconfig
+/home/uwu/Documents/LHDHW/obj/Debug/net5.0/LHDHW.AssemblyInfoInputs.cache
+/home/uwu/Documents/LHDHW/obj/Debug/net5.0/LHDHW.AssemblyInfo.cs
+/home/uwu/Documents/LHDHW/obj/Debug/net5.0/LHDHW.csproj.CoreCompileInputs.cache
+/home/uwu/Documents/LHDHW/obj/Debug/net5.0/LHDHW.dll
+/home/uwu/Documents/LHDHW/obj/Debug/net5.0/ref/LHDHW.dll
+/home/uwu/Documents/LHDHW/obj/Debug/net5.0/LHDHW.pdb
+/home/uwu/Documents/LHDHW/obj/Debug/net5.0/LHDHW.genruntimeconfig.cache
